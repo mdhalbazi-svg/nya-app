@@ -1,0 +1,9 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+google-services.json
+.env
+node_modules/
+backend/functions/lib/
